@@ -1,0 +1,10 @@
+C:\Users\Владислав\source\repos\GordeevTest\bin\Debug\GordeevTest.exe.config
+C:\Users\Владислав\source\repos\GordeevTest\bin\Debug\GordeevTest.exe
+C:\Users\Владислав\source\repos\GordeevTest\bin\Debug\GordeevTest.pdb
+C:\Users\Владислав\source\repos\GordeevTest\bin\Debug\InspectorLib.dll
+C:\Users\Владислав\source\repos\GordeevTest\bin\Debug\InspectorLib.pdb
+C:\Users\Владислав\source\repos\GordeevTest\obj\Debug\GordeevTest.csproj.AssemblyReference.cache
+C:\Users\Владислав\source\repos\GordeevTest\obj\Debug\GordeevTest.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\GordeevTest\obj\Debug\GordeevT.2660E0E8.Up2Date
+C:\Users\Владислав\source\repos\GordeevTest\obj\Debug\GordeevTest.exe
+C:\Users\Владислав\source\repos\GordeevTest\obj\Debug\GordeevTest.pdb
